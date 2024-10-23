@@ -1,0 +1,20 @@
+body {
+    height: 100vh;
+}
+
+form {
+    width: 300px;
+}
+input {
+    border: none;
+}
+input, button {
+    padding: 10px;
+    width: -webkit-fill-available;
+}
+
+.outline {
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+}
